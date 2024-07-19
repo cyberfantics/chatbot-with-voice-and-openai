@@ -10,7 +10,7 @@ This project is a Voice Assistant Chatbot that leverages the power of OpenAI's G
 - **Voice Selection**: Users can choose from a variety of voices provided by IBM Watson for the chatbot's responses.
 
 ## Demo
-[Youtube](https://youtube.com/cyberfantics)
+[Youtube](https://youtu.be/WVPvZnSw5tE)
 
 ## Technologies Used
 
